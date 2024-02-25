@@ -35,7 +35,7 @@ programación.
 -6) En esta sección buscarás una extensión llamada 'Live Server' y la descargarás
 -7) Ya estás cerca de tener todo listo, solo te falta descargar los archivos de Github , que 
     contiene los códigos de los trabajos / software's, descárgalos a través de: 
-    https://github.com/Davidshtp/TRABAJO-DE-POE-TERMINADO/tree/main
+    https://github.com/Davidshtp/TRABAJO-DE-POE-/tree/main
 
 -8) Lo último que te queda sería poner la carpeta que te ha dado la última descarga de Github en la
     ubicación que tú quieras. Por último, sigue los pasos del 'Manual de Usuario' para ejecutar los
