@@ -1,0 +1,55 @@
+------------------------*MANUAL DE USUARIO*------------------------
+
+------------*SOFTWARE: VALIDACIÓN DE FORMULARIO*------------
+--------*INTRODUCCIÓN*--------
+
+El Software 'VALIDACIÓN DE FORMULARIO' es una aplicación web desarrollada con HTML, CSS y JavaScript.
+
+Este software ofrece una interfaz de usuario interactiva que permite a los usuarios enviar su nombre
+a través de un formulario. La aplicación valida el nombre ingresado y requiere que tenga más de 3 
+caracteres para poder activar el botón de enviar.
+
+El propósito de esta aplicación es demostrar interactúa la lógica subyacente, validando la entrada
+del usuario y proporcionando retroalimentación en tiempo real (Es decir, mostrar un error en dado
+caso de no cumplir con las condiciones que se piden).
+
+Dirigido a aquellos intrigados por el mundo de la programación o personas curiosas, la 
+'validación de formulario' muestra cómo incluso un código pequeño puede crear una experiencia 
+práctica, útil y fácil de usar.
+
+Explora la simplicidad y la utilidad de la programación web y descubre cómo la interactividad puede
+mejorar la experiencia del usuario.
+
+
+--------*REQUISITOS DEL SISTEMA*--------
+(TAMBIÉN DEBERÁN DE LEER EL MANUAL DE INSTALACIÓN EN DONDE SE RECORDARÁN ESTOS REQUISITOS Y DE QUÉ
+SE NECESITA PARA EJECUTAR EL CÓDIGO)
+- *Navegador Web Moderno* : Debes tener un navegador web lo más actualizado posible para que el
+  software se ejecute de una manera adecuada (Febrero / 2024). Algunos navegadores compatibles son;
+  Microsoft Edge, Opera GX , Google Chrome.
+-*JavaScript Habilitado en tu Navegador* : Debes de consultar en tu navegador si tienes el lenguaje
+  de JavaScript Habilitado. (Si buscas ' verificar JavaScript' te aparecerán páginas en Internet que
+  Verificarán si tienes este lenguaje habilitado)
+-*Conexión a Internet* : Quizá en este Software no es necesario la conectividad a Internet, sin
+  embargo es bueno estar conectado a una Red de Internet para tener un buen funcionamiento del
+  Software.
+-*RECURSOS DE HARDWARE* : Este Software y todos los demás, son lo suficientemente sencillos para que
+  puedan ejecutarse en la mayoría de las computadoras; (Si tienes 4GB DE RAM debería de bastar).
+
+--------*GUÍA DE USO*--------
+La Guía de uso es muy sencilla, una vez se haya seguido todos los pasos de Instalación lo que sigue
+ es:
+-1) Abrir el archivo 'index.html' de la carpeta 'validacion de formulario'
+-2) Una vez abierto el archivo, lo que queda es ejecutar la extensión 'Live Server', puedes hacerlo
+ dándole clic derecho dentro del archivo y buscar la opción 'Open With Live Server' o abrirlo con
+ el comando 'Alt + L' y luego 'Alt + O'.
+-3) Una vez se haya ejecutado el código podrás ver la interfaz en donde se mostrará una breve 
+ bienvenida en donde pide que te registres con un usuario que al menos cumpla con 3 caracteres, 
+ si no cumples con la condición te marcará un error en la que específica que no cumples una 
+ condición.
+
+
+-----------------------------------------
+¡Esperamos que la explicación haya sido de tu agrado y lo suficientemente clara como para que puedas
+ realizar todos los procedimientos y hayan salido con éxito :D !.
+

@@ -1,0 +1,48 @@
+------------------------*MANUAL DE USUARIO*------------------------
+
+------------*SOFTWARE: GALERÍA DE FOTOS / IMÁGENES*------------
+--------*INTRODUCCIÓN*--------
+
+El Software 'Galería de Imágenes' es una aplicación web creada utilizando HTML, CSS y JavaScript.
+
+Esta galería de imágenes ofrece una experiencia interactiva para explorar una selección de imágenes.
+Cuando pases el cursor por encima de estas imagenes notarás como las imágenes resaltan un poco,
+siendo así más llamativas a la vista.
+Al hacer clic en una imagen, se muestra en pantalla completa, lo que permite apreciar los detalles y
+la calidad de cada imagen.
+
+La combinación de HTML para la estructura, CSS para el diseño y JavaScript para la interactividad, 
+demuestra cómo estos lenguajes trabajan juntos para crear una experiencia fluida y atractiva para el
+usuario.
+
+¡Explora la belleza visual con la Galería de Imágenes!
+
+--------*REQUISITOS DEL SISTEMA*--------
+(TAMBIÉN DEBERÁN DE LEER EL MANUAL DE INSTALACIÓN EN DONDE SE RECORDARÁN ESTOS REQUISITOS Y DE QUÉ
+SE NECESITA PARA EJECUTAR EL CÓDIGO)
+- *Navegador Web Moderno* : Debes tener un navegador web lo más actualizado posible para que el
+  software se ejecute de una manera adecuada (Febrero / 2024). Algunos navegadores compatibles son;
+  Microsoft Edge, Opera GX , Google Chrome.
+-*JavaScript Habilitado en tu Navegador* : Debes de consultar en tu navegador si tienes el lenguaje
+  de JavaScript Habilitado. (Si buscas ' verificar JavaScript' te aparecerán páginas en Internet que
+  Verificarán si tienes este lenguaje habilitado)
+-*Conexión a Internet* : Quizá en este Software no es necesario la conectividad a Internet, sin
+  embargo es bueno estar conectado a una Red de Internet para tener un buen funcionamiento del
+  Software.
+-*RECURSOS DE HARDWARE* : Este Software y todos los demás, son lo suficientemente sencillos para que
+  puedan ejecutarse en la mayoría de las computadoras; (Si tienes 4GB DE RAM debería de bastar).
+
+--------*GUÍA DE USO*--------
+La Guía de uso es muy sencilla, una vez se haya seguido todos los pasos de Instalación lo que sigue
+ es:
+-1) Abrir el archivo 'index.html' de la carpeta galeria de fotos'
+-2) Una vez abierto el archivo, lo que queda es ejecutar la extensión 'Live Server', puedes hacerlo
+ dándole clic derecho dentro del archivo y buscar la opción 'Open With Live Server' o abrirlo con
+ el comando 'Alt + L' y luego 'Alt + O'.
+-3) Una vez se haya ejecutado el código podrás ver la interfaz en donde se mostrarán las Imágenes -
+ Fotos. Donde podrás ver visualizar como al pasar el cursor sobre estas fotos se resaltarán un poco,
+ siendo más llamativas y en donde también podrás abrirlas y cerrarlas.
+-----------------------------------------
+¡Esperamos que la explicación haya sido de tu agrado y lo suficientemente clara como para que puedas
+ realizar todos los procedimientos y hayan salido con éxito :D !.
+

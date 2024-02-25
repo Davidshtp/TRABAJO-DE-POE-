@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!--titulo de la pagina-->
+        <title>MENU DE INICIO</title>
+        <!-- Required meta tags -->
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
+
+        <!-- Bootstrap CSS v5.2.1 -->
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+            crossorigin="anonymous"
+        />
+    </head>
+    <style>
+        /*en el body agregamos la imagen de fondo */
+        body{
+            background-image: url(images/wallpaperbetter.com_1536x864.jpg);
+        }
+        /*este es el div contenedor que contiene los textos de ccs, js y html  */
+        .container{
+            color: rgb(255, 255, 255);
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            display: flex;
+            gap: 20%;
+            position: absolute;
+            bottom: 30px;
+            right: 0px;
+            left: 0px;
+            
+        }
+        /*este es el div del titulo */
+        .contenedor div {
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: larger;
+            margin: 50px;
+        }
+        /*este es el div que modifica al texto */
+        .contenedor p{
+            font-size:small;
+            margin:50px;
+            font-style: italic;
+        }
+           /*aca tenemos los logos de cada uno de los lenguajes y sus atributos correspondientes */
+        .css{
+            cursor: pointer;
+            scale: 1.5;
+        }
+        .js{
+            cursor: pointer;
+            scale: 1.5;
+        }.html{
+            cursor: pointer;
+            scale: 1.5;
+        }
+        .csslogo{
+            margin-left: 5%;
+            margin-top: 35%;
+            position: absolute;
+        }.jslogo{
+            margin-left: 23%;
+            margin-top: 35%;
+            position: absolute;
+        }.htmllogo{
+            margin-left: 40%;
+            margin-top: 35%;
+            position: absolute; 
+        }.titulo{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }.parrafo{
+            font-family: 'Courier New', Courier, monospace;
+        }
+        
+        
+
+        
+
+        
+        
+    </style>
+    <!-- aca agregue las imagenes de los logos de los lenguajes de programacion-->
+    <img src="images/js (1).png" height="50px" width="50px" class="jslogo">
+    <img src="images/css-3.png" height="50px" width="50px" class="csslogo">
+    <img src="images/html-5.png" height="50px" width="50px" class="htmllogo">
+    <!--este es el div contenedor del titulo y el texto-->
+    <div class="contenedor">
+        <div class="titulo"><h1>WELCOME TO THE A DEVELOPER MENU</h1></div>
+         <p class="parrafo">En esta pagina encontraras de todo un poco, resaltando los lenguajes utilizados para <br>este proyecto de menu interactivo en el cual se resaltan lenguajes como:</p>        
+    </div>
+    <!--este es el div contendeor de js css y html-->
+    <div class="container">
+            <div class="css" onclick="ccs()" id="idcss">CCS</div>
+            <div class="js" onclick="js()" id="idjs" >JS</div>
+            <div class="html" onclick="html()" id="idhtml">HTML</div>
+    </div>
+    <!--aca enlazamos el html con el js-->
+        <script src="menuinteractivo.js"></script>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <header>
+            <!-- place navbar here -->
+        </header>
+        <main></main>
+        <footer>
+            <!-- place footer here -->
+        </footer>
+        <!-- Bootstrap JavaScript Libraries -->
+        <script
+            src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+            integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+            crossorigin="anonymous"
+        ></script>
+
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+            integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+            crossorigin="anonymous"
+        ></script>
+    </body>
+</html>

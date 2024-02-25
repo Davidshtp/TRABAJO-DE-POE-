@@ -1,0 +1,46 @@
+------------------------*MANUAL DE INSTALACIÓN*------------------------
+
+Hola :D !
+A continuación veremos los pasos y necesidades que requerimos para ejecutar nuestros códigos.
+No te preocupes que lo que veremos no es nada complicado y es de lo más sencillo. Lo haremos con
+herramientas de programación gratuita y que es una de las más utilizadas en el mundo de la 
+programación.
+
+--------*REQUISITOS DEL SISTEMA*--------
+- *Navegador Web Moderno* : Debes tener un navegador web lo más actualizado posible para que el
+  software se ejecute de una manera adecuada (Febrero / 2024). Algunos navegadores compatibles son;
+  Microsoft Edge, Opera GX , Google Chrome.
+-*JavaScript Habilitado en tu Navegador* : Debes de consultar en tu navegador si tienes el lenguaje
+  de JavaScript Habilitado. (Si buscas ' verificar JavaScript' te aparecerán páginas en Internet que
+  Verificarán si tienes este lenguaje habilitado)
+-*Conexión a Internet* : Quizá en este Software no es necesario la conectividad a Internet, sin
+  embargo es bueno estar conectado a una Red de Internet para tener un buen funcionamiento del
+  Software.
+-*RECURSOS DE HARDWARE* : Este Software y todos los demás, son lo suficientemente sencillos para que
+  puedan ejecutarse en la mayoría de las computadoras; (Si tienes 4GB DE RAM debería de bastar).
+
+
+--------*PASOS DE INSTALACIÓN DE HERRAMIENTAS*--------
+-1) En tu navegador de preferencia accede al siguiente link en donde podremos descargar el 
+    instalador de una herramienta llamada 'Visual Studio Code': 
+	https://code.visualstudio.com/download
+-2) Una vez allí, descargas la versión según tu Sistema Operativo
+-3) Cuando tengas el instalador, debes instalarlo con las opciones predeterminadas 
+-4) Ejecutar Visual Studio Code 
+-5) Una vez estés dentro, debes de ir a la barra lateral en la parte izquierda y buscar la sección 
+    de 'Extensiones'
+*Opcional* : Si deseas cambiar el idioma de VS Code debes instalar la extensión de 
+  'Spanish Language Pack for Visual Studio' creado por Microsoft. Luego te pedirá reiniciar VS Code 
+   y ya tendrás VS Code en Español.
+-6) En esta sección buscarás una extensión llamada 'Live Server' y la descargarás
+-7) Ya estás cerca de tener todo listo, solo te falta descargar los archivos de Github , que 
+    contiene los códigos de los trabajos / software's, descárgalos a través de: 
+    https://github.com/Davidshtp/TRABAJO-DE-POE-TERMINADO/tree/main
+
+-8) Lo último que te queda sería poner la carpeta que te ha dado la última descarga de Github en la
+    ubicación que tú quieras. Por último, sigue los pasos del 'Manual de Usuario' para ejecutar los
+    códigos / software's y conozcas sus indicaciones.
+
+---------------------------------
+Esperamos que este Manual de Instalación haya sido claro y conciso para obtener las herramientas que
+necesitas. Disfruta de estas actividades :D ! 
